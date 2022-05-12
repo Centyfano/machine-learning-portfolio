@@ -45,6 +45,6 @@ Tasks done include
 -   **Model training**  
     A convoluted network was used in building the model, with filters, pooling layers and densely connected networks.
 
-See the project in deatil, in the [animal classification]() folder
+See the project in detail in the [animal classification](https://github.com/Centyfano/machine-learning-portfolio/tree/main/animal-classification) project
 
 ### MNIST digit recognizer
