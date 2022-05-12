@@ -24,3 +24,25 @@ This project implements the multi-class classification, and the goal is to class
 See the project in detail in the [animal classification](https://github.com/Centyfano/machine-learning-portfolio/tree/main/animal-classification) project
 
 ### MNIST digit recognizer
+
+# Usage
+
+Clone this repo, and in the terminal, navigate to the directory `animal-classification`
+
+Activate the virtual environment of your choice (either python-venv or anaconda), and in it, install the packages for this project
+
+### Package installation
+
+After activating your environment, install the packages
+
+```
+pip install -r requirements.txt
+```
+
+### Get Kaggle API key
+
+This is required in order to download Kaggle datasets.
+
+For the animal-classification project, the dataset used is at Kaggle, thus an [API key](https://www.kaggle.com/docs/api) is required.
+
+After getting the API key, put it in the home directory, since that is the default location kaggle will look for.

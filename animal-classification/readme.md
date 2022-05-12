@@ -19,22 +19,3 @@ Tasks done include
 
 -   **Model training**  
     A convoluted network was used in building the model, with filters, pooling layers and densely connected networks.
-
-## Usage
-
-Clone this repo, and in the terminal, navigate to the directory `animal-classification`
-
-Activate the virtual environment of your choice (either python-venv or anaconda), and in it, install the packages for this project
-
-### Package installation
-
-After activating your environment, install the packages
-
-```
-pip install -r requirements.txt
-```
-
-### Get Kaggle API key
-
-This is required in order to download Kaggle datasets.  
-After getting the API key, put it in the home directory, since that is the default location kaggle will look for
