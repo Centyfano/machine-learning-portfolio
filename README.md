@@ -1,7 +1,5 @@
 # Projects
 
-## Linear regression
-
 ### House prediction in Nairobi
 
 This project implements linear regression ML, whereby the model is trained to predict the prices of houses in Nairobi based on a number of features.
@@ -9,6 +7,10 @@ This project implements linear regression ML, whereby the model is trained to pr
 The project is in the [house-prediction](https://github.com/Centyfano/machine-learning-portfolio/tree/main/house-prediction) directory
 
 ## Binary classification
+
+### Cats vs Dogs classification
+
+### Flowers Classification
 
 ## Multi-Class classification
 
@@ -24,6 +26,10 @@ This project implements the multi-class classification, and the goal is to class
 See the project in detail in the [animal classification](https://github.com/Centyfano/machine-learning-portfolio/tree/main/animal-classification) project
 
 ### MNIST digit recognizer
+
+Participated in the Kaggle MNIST digit recognizer challenge, and obtained a score of 0.98428 in the leaderboard
+
+The dataset is in [mnist](), and the code at [Kaggle](https://www.kaggle.com/code/centyfanoarnold/digit-recognizer-using-cnn-and-imagedatagenerator)
 
 # Usage
 
