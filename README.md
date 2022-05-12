@@ -1,4 +1,4 @@
-# Projects
+# Machine Learning Portfolio
 
 ### House prediction in Nairobi
 
