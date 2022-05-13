@@ -1,5 +1,7 @@
 # Machine Learning Portfolio
 
+## Linear Regression
+
 ### House prediction in Nairobi
 
 This project implements linear regression ML, whereby the model is trained to predict the prices of houses in Nairobi based on a number of features.
@@ -36,10 +38,6 @@ The dataset is in [mnist](), and the code at [Kaggle](https://www.kaggle.com/cod
 Clone this repo, and in the terminal, navigate to the directory `animal-classification`
 
 Activate the virtual environment of your choice (either python-venv or anaconda), and in it, install the packages for this project
-
-### Package installation
-
-After activating your environment, install the packages
 
 ```
 pip install -r requirements.txt

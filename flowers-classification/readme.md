@@ -1,13 +1,12 @@
-# Animals clasification
+# Flowers clasification
 
-This project implements the multi-class classification, and the goal is to classify images of four wild animals:
+This project implements the multi-class classification, and the goal is to classify images of five flowers:
 
--   Zebra
--   Buffalo
--   Elephant
--   Rhino
-
-The dataset is avalilable at [Kaggle](https://www.kaggle.com/datasets/ayushv322/animal-classification), and it has 1000 images for each class, totaling 4000 images.
+-   roses
+-   daisy
+-   dandelion
+-   sunflowers
+-   tulips
 
 Tasks done include
 
