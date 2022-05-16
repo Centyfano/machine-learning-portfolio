@@ -1,24 +1,36 @@
 # Machine Learning Portfolio
 
-## Linear Regression
-
 ### House prediction in Nairobi
 
 This project implements linear regression ML, whereby the model is trained to predict the prices of houses in Nairobi based on a number of features.
 
 The project is in the [house-prediction](https://github.com/Centyfano/machine-learning-portfolio/tree/main/house-prediction) directory
 
-## Binary classification
-
 ### Cats vs Dogs classification
+
+This is a supervised learning image classification type of ML, where a model is created and trained to classify images of cats vs that of dogs.
+
+Given the small size of the training dataset, data augmentation was performed, to _create_ new datasets by transforming the existing ones through methods such as zooming in, horizontal flips and rotations.
+
+The project is in the [cats-dogs-classification](https://github.com/Centyfano/machine-learning-portfolio/tree/main/cats-dogs-classification) directory.
 
 ### Flowers Classification
 
-## Multi-Class classification
+This is a multiclass classification ML, where the task is to classify images of five different flowers
+
+-   roses
+-   daisy
+-   dandelion
+-   sunflowers
+-   tulips
+
+Data augmentation is performed on the training set to prevent overfitting during training.
+
+The project is in the [flowers-classification](https://github.com/Centyfano/machine-learning-portfolio/tree/main/flowers-classification) directory
 
 ### Animal-classification
 
-This project implements the multi-class classification, and the goal is to classify images of four wild animals:
+This project also implements the multi-class classification, and the goal is to classify images of four wild animals:
 
 -   Zebra
 -   Buffalo
